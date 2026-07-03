@@ -1,5 +1,10 @@
-# 💫 About Me:
-I'm a bit lazy
+<h1 align="center">Hi, I'm Artem 👋</h1>
+
+
+<p align="center">
+  <a href="https://github.com/maybaah?tab=followers"><img src="https://img.shields.io/github/followers/maybaah?label=Follow&style=social" alt="Follow @maybaah"></a>
+  <img src="https://komarev.com/ghpvc/?username=maybaah&label=Profile%20views&color=6f42c1&style=flat" alt="Profile views">
+</p>
 
 
 ## 🌐 Socials:
@@ -13,7 +18,6 @@ I'm a bit lazy
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Maybaah&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Maybaah&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
