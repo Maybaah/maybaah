@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,50:414868,100:7aa2f7&text=Hi,%20I'm%20Artem%20👋&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Backend%20developer%20·%20CS%20student&descAlignY=58&descSize=20" alt="Header">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&color=7AA2F7&lines=Backend+developer;PHP+·+Python+·+TypeScript;Building+LQAChecker;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&color=7AA2F7&lines=Backend+developer;PHP+%C2%B7+Python+%C2%B7+TypeScript;Building+LQAChecker;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maybaah&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Maybaah&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies">
 </p>
 
 <p align="center">
