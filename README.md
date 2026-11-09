@@ -24,15 +24,6 @@
 - 💬 Ask me about Laravel, FastAPI, and Vue
 - 📫 Reach me at [artemcovtonyk2909@gmail.com](mailto:artemcovtonyk2909@gmail.com)
 
-## 🚀 Featured projects
-
-| Project | What it is |
-| --- | --- |
-| [**maybaah.github.io**](https://github.com/Maybaah/Maybaah.github.io) | Personal site and arcade: chess, codenames, battleship, quoridor and more, with refereed 1v1 rooms |
-| [**loc-source-sync**](https://github.com/Maybaah/loc-source-sync) | Triages bulk source-update tasks in game localization: real changes vs cosmetic, QA checks, report exports |
-| [**flowcode**](https://github.com/Maybaah/flowcode) | 3D typing trainer: words fly at you in cubes |
-| [**prawko**](https://github.com/Maybaah/prawko) | Polish driving licence (cat. B) test prep on the official question bank |
-
 ## 🛠️ Tech stack
 
 <p align="center">
