@@ -19,7 +19,7 @@
 
 - 🎓 CS student working on my engineering thesis: **LQAChecker**, a linguistic quality assurance tool
 - 🔭 Backend first: APIs, services, and data flows
-- 🕹️ Side quest: a browser arcade with multiplayer rooms at [maybaah.github.io](https://maybaah.github.io/)
+- 🕹️ Side quest: a browser arcade with multiplayer rooms at [maybaah.com](https://maybaah.com/)
 - 🌱 Currently sharpening Python and TypeScript
 - 💬 Ask me about Laravel, FastAPI, and Vue
 - 📫 Reach me at [artemcovtonyk2909@gmail.com](mailto:artemcovtonyk2909@gmail.com)
